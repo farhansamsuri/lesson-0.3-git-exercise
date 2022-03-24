@@ -1,6 +1,6 @@
 # GitHub Desktop Exercise
 
-This is a sentgit ence.
+This is a sentence.
 
 Congratulations, you have successfully forked this repository!
 
